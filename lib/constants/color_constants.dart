@@ -1,0 +1,43 @@
+import 'package:flutter/material.dart';
+
+class ColorConstants {
+  static const Color primary = Color(0xff4E9CFE);
+  static const Color primaryWithTenOpacity = Color(0xff4E9CFE);
+  static const Color buttonPrimary = Color(0xff4E9CFE);
+  static const Color buttonSecondary = Color(0xffefefef);
+  static const Color darkText = Color(0xff191919);
+  static const Color blackInputText = Color(0xff000000);
+  static const Color hintColor = Color(0xffABB5C5);
+  static const Color borderColor = Color(0xffE2E6F1);
+  static const Color dividerColor = Color(0xffAAAAAA);
+  static const Color errorColor = Color(0xffD24445);
+  static const Color errorColorHome = Color(0xffEB5757);
+  static const Color profilePicBackground = Color(0xffF2F5FB);
+  static const Color profilePicBorder = Color(0xff8E9FC7);
+  static const Color bottomSheetHandlerColor = Color(0xffE7E7E7);
+  static const Color homeScreenBackground = Color(0xffffffff);
+  static const Color dashboardTabBar = Color(0xffDEEBFF);
+  static const Color green = Color(0xff27AE60);
+  static const Color textLabelColor = Color(0xff4B5564);
+  static const Color lightText = Color(0xff4F4F4F);
+  static const Color bottomTileColor = Color(0xffF2F5FB);
+  static const Color calendarHeader = Color(0xff4A5660);
+  static const Color calendarDayHeader = Color(0xffB5BEC6);
+  static const Color calendarBorderColor = Color(0xffE1E3E7);
+  static const Color bottomSheetIndicator = Color(0x5cE6E6E6);
+  static const Color settingsBg = Color(0xffE6E6E6);
+  static const categoryBackground = Color(0x268E9FC7);
+  static const genderUnselectedBgColor = Color(0xffF6F7F8);
+  static const genderSelectedBgColor = Color(0x1A4E9CFE);
+  static const actionCategoryTextColor = Color(0xffFFBD1A);
+  static const actionCategoryBgColor = Color(0xffFFF4E0);
+  static const goalsCatBg = Color(0xffEEF1F7);
+  static const shadowColor = Color(0x0d4B3425);
+  static const activeColor = Color(0xff219653);
+  static const givenUpColor = Color(0xffF2994A);
+  static const lightTextColor = Color(0xff828282);
+  static const detailBorderColor = Color(0xffDADFE3);
+  static const disBg = Color(0x4dCED4DA);
+  static const linearProgressBg = Color(0xffD9D9D9);
+  static const disableInputField = Color(0xffF3F5F9);
+}

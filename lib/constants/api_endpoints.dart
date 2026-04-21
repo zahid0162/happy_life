@@ -1,0 +1,29 @@
+class ApiEndpoints {
+  // static const String serverUrl = "https://a7d0-122-129-85-58.ngrok-free.app";
+  static const String serverUrl = "http://192.168.100.226:8000";
+  static const String baseUrl = "$serverUrl/";
+  static const login = "auth/login";
+  static const register = "auth/register";
+  static const updateProfile = "user/update-profile";
+  static const userHome = "user/home";
+  static const userProfile = "user/profile";
+  static const updateCategory = "user/update-user-categories";
+  static const String session = "session";
+  static const String passwords = "passwords";
+  static const String googleLogin = "auth/login/google";
+  static const String appleLogin = "auth/login/apple";
+  static const allCategoriesGoals = "category/goals";
+  static const updateGoalAction = "user/update-goal-action-status/";
+  static const updateGoalStatus = "user/update-goal-status/";
+  static const goalDetail = "user/goals/";
+  static const createGoal = 'user/goals/create';
+  static const updateGoal = 'user/goals/update/';
+  static const updateActionInfo = 'user/goals/actions/';
+  static const createAction = "user/goals/";
+  static const getActions = 'user/actions';
+  static const saveCalendarToken = 'user/calendar/save-token';
+  static const deleteAccount = 'user/delete-account';
+  static const logoutAccount = 'user/logout';
+  static const support = 'user/support';
+  static const notifications = 'user/notifications';
+}
