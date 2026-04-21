@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="923dad86-17c8-4470-a3e1-8490d5dc3ad5" name="Changes" comment="constants and managers" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Administrator/Downloads/my-happy-work-place-flutter-app-20260409T081947Z-3-001/my-happy-work-place-flutter-app" value="2pnZQqQ2wbFaJt65UI141a0q2jy" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="s2/calendar_integration" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="s3/notifications" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2pnZQqQ2wbFaJt65UI141a0q2jy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "io.flutter.project.isFirstOpen": "true",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Downloads/my-happy-work-place-flutter-app-20260409T081947Z-3-001/my-happy-work-place-flutter-app",
+    "settings.editor.selected.configurable": "dart.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/app" />
+      <recent name="$PROJECT_DIR$/ios" />
+      <recent name="$PROJECT_DIR$/assets/icons" />
+      <recent name="$PROJECT_DIR$/lib/views/pages/bottom_sheet" />
+      <recent name="$PROJECT_DIR$/lib/views/pages/home_screen" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ios/Runner" />
+      <recent name="$PROJECT_DIR$/lib/views/pages/home_screen" />
+      <recent name="$PROJECT_DIR$/android/app" />
+      <recent name="$PROJECT_DIR$/lib/managers" />
+      <recent name="$PROJECT_DIR$/lib/views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="923dad86-17c8-4470-a3e1-8490d5dc3ad5" name="Changes" comment="" />
+      <created>1733403788117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733403788117</updated>
+    </task>
+    <task id="LOCAL-00001" summary="pub apec">
+      <option name="closed" value="true" />
+      <created>1733821131480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733821131480</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sprint 1 completed">
+      <option name="closed" value="true" />
+      <created>1733988713295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733988713295</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create goal info">
+      <option name="closed" value="true" />
+      <created>1734073466573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734073466573</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pr changes">
+      <option name="closed" value="true" />
+      <created>1734075409372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734075409372</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pr changes">
+      <option name="closed" value="true" />
+      <created>1734080056123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734080056123</updated>
+    </task>
+    <task id="LOCAL-00006" summary="code merge">
+      <option name="closed" value="true" />
+      <created>1734091433105</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734091433105</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pr changes">
+      <option name="closed" value="true" />
+      <created>1734092185137</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734092185137</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pr changes">
+      <option name="closed" value="true" />
+      <created>1734094157264</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734094157264</updated>
+    </task>
+    <task id="LOCAL-00009" summary="create goal UI">
+      <option name="closed" value="true" />
+      <created>1734107677200</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734107677200</updated>
+    </task>
+    <task id="LOCAL-00010" summary="edit goal and obstacle completed">
+      <option name="closed" value="true" />
+      <created>1734425113869</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1734425113869</updated>
+    </task>
+    <task id="LOCAL-00011" summary="complete level screen">
+      <option name="closed" value="true" />
+      <created>1734454461176</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1734454461176</updated>
+    </task>
+    <task id="LOCAL-00012" summary="s2 complete">
+      <option name="closed" value="true" />
+      <created>1734690088598</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734690088598</updated>
+    </task>
+    <task id="LOCAL-00013" summary="minor fix">
+      <option name="closed" value="true" />
+      <created>1734692212317</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1734692212317</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ui">
+      <option name="closed" value="true" />
+      <created>1734940436344</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1734940436344</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ui">
+      <option name="closed" value="true" />
+      <created>1734940477431</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1734940477431</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixes for s2, calendar integration">
+      <option name="closed" value="true" />
+      <created>1735214783169</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735214783169</updated>
+    </task>
+    <task id="LOCAL-00017" summary="pr changes">
+      <option name="closed" value="true" />
+      <created>1735215551713</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735215551713</updated>
+    </task>
+    <task id="LOCAL-00018" summary="merge fixes">
+      <option name="closed" value="true" />
+      <created>1735216356867</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735216356867</updated>
+    </task>
+    <task id="LOCAL-00019" summary="merge fixes">
+      <option name="closed" value="true" />
+      <created>1735216962095</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735216962095</updated>
+    </task>
+    <task id="LOCAL-00020" summary="commit pod file">
+      <option name="closed" value="true" />
+      <created>1735217161293</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735217161293</updated>
+    </task>
+    <task id="LOCAL-00021" summary="merge fixes">
+      <option name="closed" value="true" />
+      <created>1735218088510</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735218088510</updated>
+    </task>
+    <task id="LOCAL-00022" summary="s2 fixes">
+      <option name="closed" value="true" />
+      <created>1735729882470</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1735729882470</updated>
+    </task>
+    <task id="LOCAL-00023" summary="unknown">
+      <option name="closed" value="true" />
+      <created>1735730551275</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1735730551275</updated>
+    </task>
+    <task id="LOCAL-00024" summary="unknown">
+      <option name="closed" value="true" />
+      <created>1735730567566</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1735730567566</updated>
+    </task>
+    <task id="LOCAL-00025" summary="settings main screen">
+      <option name="closed" value="true" />
+      <created>1735730791800</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1735730791800</updated>
+    </task>
+    <task id="LOCAL-00026" summary="constants merge">
+      <option name="closed" value="true" />
+      <created>1735731472120</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1735731472120</updated>
+    </task>
+    <task id="LOCAL-00027" summary="settings UI completed">
+      <option name="closed" value="true" />
+      <created>1735806036959</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1735806036959</updated>
+    </task>
+    <task id="LOCAL-00028" summary="notifications working on android">
+      <option name="closed" value="true" />
+      <created>1736249909304</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1736249909304</updated>
+    </task>
+    <task id="LOCAL-00029" summary="constants and managers">
+      <option name="closed" value="true" />
+      <created>1776752203321</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1776752203321</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="s3/settings" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="s3/settings" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="se" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pub apec" />
+    <MESSAGE value="sprint 1 completed" />
+    <MESSAGE value="create goal info" />
+    <MESSAGE value="code merge" />
+    <MESSAGE value="create goal UI" />
+    <MESSAGE value="edit goal and obstacle completed" />
+    <MESSAGE value="complete level screen" />
+    <MESSAGE value="s2 complete" />
+    <MESSAGE value="minor fix" />
+    <MESSAGE value="ui" />
+    <MESSAGE value="fixes for s2, calendar integration" />
+    <MESSAGE value="pr changes" />
+    <MESSAGE value="commit pod file" />
+    <MESSAGE value="merge fixes" />
+    <MESSAGE value="s2 fixes" />
+    <MESSAGE value="unknown" />
+    <MESSAGE value="settings main screen" />
+    <MESSAGE value="constants merge" />
+    <MESSAGE value="settings UI completed" />
+    <MESSAGE value="notifications working on android" />
+    <MESSAGE value="constants and managers" />
+    <option name="LAST_COMMIT_MESSAGE" value="constants and managers" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/create_goal_action.dart</url>
+          <line>560</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/create_goal_action.dart</url>
+          <line>104</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view_models/goals/goal_view_model.dart</url>
+          <line>221</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/create_goal_action.dart</url>
+          <line>139</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/repositories/goals_repository.dart</url>
+          <line>109</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/repositories/goals_repository.dart</url>
+          <line>100</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/add_goal_actions.dart</url>
+          <line>172</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/repositories/goals_repository.dart</url>
+          <line>103</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/repositories/goals_repository.dart</url>
+          <line>111</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/goal/category_goals_details.dart</url>
+          <line>53</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view_models/goals/goal_view_model.dart</url>
+          <line>128</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/goal/main_category_goal_listing.dart</url>
+          <line>31</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/models/dashboard/action.dart</url>
+          <line>61</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view_models/goals/goal_view_model.dart</url>
+          <line>171</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/repositories/goals_repository.dart</url>
+          <line>138</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/repositories/goals_repository.dart</url>
+          <line>131</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/repositories/goals_repository.dart</url>
+          <line>133</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view_models/goals/goal_view_model.dart</url>
+          <line>179</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/models/dashboard/action.dart</url>
+          <line>34</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/utils/date_time_utils.dart</url>
+          <line>55</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view_models/goals/goal_view_model.dart</url>
+          <line>182</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/create_goal_action.dart</url>
+          <line>658</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/create_goal_action.dart</url>
+          <line>660</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/create_goal_action.dart</url>
+          <line>627</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/create_goal_action.dart</url>
+          <line>624</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/create_goal_action.dart</url>
+          <line>654</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/create_goal_action.dart</url>
+          <line>668</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/create_goal_action.dart</url>
+          <line>663</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/views/pages/create_goal/create_goal_action.dart</url>
+          <line>551</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/repositories/calendar_repository.dart</url>
+          <line>116</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/utils/notification_service.dart</url>
+          <line>65</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view_models/user_home/home_viewmodel.dart</url>
+          <line>236</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view_models/user_home/home_viewmodel.dart</url>
+          <line>231</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view_models/user_home/home_viewmodel.dart</url>
+          <line>225</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view_models/user_home/home_viewmodel.dart</url>
+          <line>229</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/models/support/support_response.dart</url>
+          <line>30</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
