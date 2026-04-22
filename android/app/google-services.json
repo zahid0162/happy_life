@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599963905192",
+    "project_id": "my-happy-workplace",
+    "storage_bucket": "my-happy-workplace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599963905192:android:892f2c0d353e4f434d269d",
+        "android_client_info": {
+          "package_name": "com.my.Happy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqiHyXYFhE7k8RCH03Cj94qS2yh6IwLu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
