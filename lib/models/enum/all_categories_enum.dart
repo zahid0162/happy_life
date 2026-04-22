@@ -1,0 +1,4 @@
+
+enum CategoriesEnum{
+  Health()
+}
