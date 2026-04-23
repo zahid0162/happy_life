@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="923dad86-17c8-4470-a3e1-8490d5dc3ad5" name="Changes" comment="git ignore">
+    <list default="true" id="923dad86-17c8-4470-a3e1-8490d5dc3ad5" name="Changes" comment="enums">
+      <change afterPath="$PROJECT_DIR$/lib/repositories/actions_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/repositories/auth_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/repositories/calendar_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/repositories/goals_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/repositories/home_repository.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -358,7 +363,39 @@
       <option name="project" value="LOCAL" />
       <updated>1776752418464</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="android folder">
+      <option name="closed" value="true" />
+      <created>1776843442865</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1776843442865</updated>
+    </task>
+    <task id="LOCAL-00034" summary="auth folder">
+      <option name="closed" value="true" />
+      <created>1776843490141</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1776843490141</updated>
+    </task>
+    <task id="LOCAL-00035" summary="dashboard">
+      <option name="closed" value="true" />
+      <created>1776843520718</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1776843520718</updated>
+    </task>
+    <task id="LOCAL-00036" summary="enums">
+      <option name="closed" value="true" />
+      <created>1776843569574</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1776843569574</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,9 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pub apec" />
-    <MESSAGE value="sprint 1 completed" />
-    <MESSAGE value="create goal info" />
     <MESSAGE value="code merge" />
     <MESSAGE value="create goal UI" />
     <MESSAGE value="edit goal and obstacle completed" />
@@ -431,7 +465,11 @@
     <MESSAGE value="ios folder" />
     <MESSAGE value="idea" />
     <MESSAGE value="git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
+    <MESSAGE value="android folder" />
+    <MESSAGE value="auth folder" />
+    <MESSAGE value="dashboard" />
+    <MESSAGE value="enums" />
+    <option name="LAST_COMMIT_MESSAGE" value="enums" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
