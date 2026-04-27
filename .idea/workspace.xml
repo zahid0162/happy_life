@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="923dad86-17c8-4470-a3e1-8490d5dc3ad5" name="Changes" comment="enums">
-      <change afterPath="$PROJECT_DIR$/lib/repositories/actions_repository.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/repositories/auth_repository.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/repositories/calendar_repository.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/repositories/goals_repository.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/repositories/home_repository.dart" afterDir="false" />
+    <list default="true" id="923dad86-17c8-4470-a3e1-8490d5dc3ad5" name="Changes" comment="helpers">
+      <change afterPath="$PROJECT_DIR$/lib/models/goals/SingleCategoryGoalsResponse.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/goals/action_progress.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/goals/category_with_goals_response.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/goals/goal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/goals/goal_detail.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -395,7 +395,47 @@
       <option name="project" value="LOCAL" />
       <updated>1776843569574</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="repos">
+      <option name="closed" value="true" />
+      <created>1776925339971</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1776925339971</updated>
+    </task>
+    <task id="LOCAL-00038" summary="utils">
+      <option name="closed" value="true" />
+      <created>1776925365134</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1776925365134</updated>
+    </task>
+    <task id="LOCAL-00039" summary="view utils">
+      <option name="closed" value="true" />
+      <created>1776925408417</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1776925408417</updated>
+    </task>
+    <task id="LOCAL-00040" summary="auth">
+      <option name="closed" value="true" />
+      <created>1776925443865</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1776925443865</updated>
+    </task>
+    <task id="LOCAL-00041" summary="helpers">
+      <option name="closed" value="true" />
+      <created>1776925508310</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1776925508310</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,11 +484,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="code merge" />
-    <MESSAGE value="create goal UI" />
-    <MESSAGE value="edit goal and obstacle completed" />
-    <MESSAGE value="complete level screen" />
-    <MESSAGE value="s2 complete" />
     <MESSAGE value="minor fix" />
     <MESSAGE value="ui" />
     <MESSAGE value="fixes for s2, calendar integration" />
@@ -469,7 +504,12 @@
     <MESSAGE value="auth folder" />
     <MESSAGE value="dashboard" />
     <MESSAGE value="enums" />
-    <option name="LAST_COMMIT_MESSAGE" value="enums" />
+    <MESSAGE value="repos" />
+    <MESSAGE value="utils" />
+    <MESSAGE value="view utils" />
+    <MESSAGE value="auth" />
+    <MESSAGE value="helpers" />
+    <option name="LAST_COMMIT_MESSAGE" value="helpers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
